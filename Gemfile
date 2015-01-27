@@ -10,6 +10,7 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
 gem 'bootstrap-sass'
 gem 'rake', '~> 10.4.2'
+gem 'twitter', '~> 5.13.0'
 
 group :development, :test do
 	gem 'sqlite3'
